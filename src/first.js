@@ -18,3 +18,5 @@ export function firstFunction() {
     content.appendChild(image);
     content.appendChild(text);
 }
+
+//random comment
