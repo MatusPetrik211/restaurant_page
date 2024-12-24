@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#content {
+    background-color: rgb(151, 151, 161);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    width: 90%;
+    padding: 0px 20%;
+    background-color: rgb(151, 151, 161);
+    border-radius: 30px;
+}
+
+button {
+    margin: 30px 14px;
+    padding: 12px 24px;
+
+    font-size: 28px;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+button:hover {
+    background-color: rgb(255, 204, 141);
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+}
