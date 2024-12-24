@@ -7,6 +7,10 @@ const content = document.querySelector('#content');
 const homeButton = document.querySelector('.home');
 const menuButton = document.querySelector('.menu');
 const aboutButton = document.querySelector('.about');
+const i = 0
+
+i += 1
+console.log(i)
 
 firstFunction()
 
